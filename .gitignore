@@ -43,6 +43,7 @@ Thumbs.db
 
 # Output files
 *.mp3
+!voices/*.mp3
 *.wav
 output.*
 
